@@ -17,21 +17,6 @@ public class SpringbootApplication {
 
         System.out.println("<<<MMMMmmmMMMMMMMMMMMMMMMMMMM>>>>>");
 
-        LinkedList<Integer> list = new LinkedList();
-        list.add(1);
-        list.add(2);
-        list.add(3);
-        list.add(4);
-        list.add(5);
-        list.add(6);
-
-
-        for (Iterator<Integer> iterator = list.iterator(); iterator.hasNext(); ) {
-            Integer next = iterator.next();
-
-            System.out.println(next);
-        }
-
     }
 
 }
