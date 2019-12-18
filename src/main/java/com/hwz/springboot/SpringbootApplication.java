@@ -15,7 +15,7 @@ public class SpringbootApplication {
         System.out.println("122222222222222222222222222222222222");
         System.out.println("3333333333333333333333");
 
-        System.out.println("<<<MMMMMMMMMMMMMMMMMMMMMMM>>>>>");
+        System.out.println("<<<MMMMmmmMMMMMMMMMMMMMMMMMMM>>>>>");
 
         LinkedList<Integer> list = new LinkedList();
         list.add(1);
