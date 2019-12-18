@@ -23,6 +23,7 @@ public class SpringbootApplication {
         list.add(5);
         list.add(6);
 
+        System.out.println("rrrrrrrrrrrrr1111111111111");
 
         for (Iterator<Integer> iterator = list.iterator(); iterator.hasNext(); ) {
             Integer next = iterator.next();
